@@ -1,0 +1,17 @@
+{
+  "name": "retorno-del-extremo",
+  "version": "1.0.0",
+  "description": "Tracker de entrenamiento y nutricion para futbol",
+  "scripts": {
+    "build": "echo ok"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.2.0",
+    "@capacitor/core": "6.2.0",
+    "@capacitor/splash-screen": "6.0.2",
+    "@capacitor/status-bar": "6.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "6.2.0"
+  }
+}
